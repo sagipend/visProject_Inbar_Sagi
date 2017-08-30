@@ -1,0 +1,59 @@
+
+  .line {
+    fill: none;
+   stroke: #F62F2F;
+    stroke-width: 1px;
+  }
+
+  .lineM {
+    fill: none;
+    stroke:#9D0202;
+    stroke-width: 1px;
+  }
+/* 
+  .areaM {
+    fill: pink;
+  } */
+
+
+  .tick text {
+    font-size: 25px;
+  }
+
+  .overlay {
+    fill: none;
+    pointer-events: all
+  }
+
+  .focus circle {
+    fill: none;
+    stroke: black;
+  }
+
+  .focus line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1.5px;
+    stroke-dasharray: 3 3;
+  }
+
+  .focus {
+    color: rgb(220, 198, 224);
+  }
+
+  .focus text {
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+
+  .axis line,
+  .axis path {
+    stroke: black;
+    stroke-width: 3.5px;
+  }
+
+  .axis g text {
+    font-size: 20px;
+    font-family: sans-serif;
+    /*color: rgb(236,236,236);*/
+  }
