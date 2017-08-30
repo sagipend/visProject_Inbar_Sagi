@@ -1,0 +1,112 @@
+country,sport,value
+AUS,Aquatics,400
+AUS,Archery,2
+AUS,Athletics,84
+AUS,Baseball,24
+AUS,Basketball,60
+AUS,Boxing,4
+AUS,Canoe,5
+AUS,"Canoe / Kayak",33
+AUS,Cycling,76
+AUS,Equestrian,31
+AUS,Gymnastics,1
+AUS,Hockey,189
+AUS,Judo,2
+AUS,Rowing,135
+AUS,Sailing,46
+AUS,Shooting,10
+AUS,Softball,60
+AUS,Taekwondo,2
+AUS,Tennis,9
+AUS,Triathlon,5
+AUS,Volleyball,4
+AUS,Weightlifting,4
+AUS,Wrestling,3
+CHN,Aquatics,158
+CHN,Archery,19
+CHN,Athletics,24
+CHN,Badminton,58
+CHN,Basketball,24
+CHN,Boxing,8
+CHN,"Canoe / Kayak",4
+CHN,Cycling,7
+CHN,Fencing,25
+CHN,Football,16
+CHN,Gymnastics,113
+CHN,Handball,13
+CHN,Hockey,16
+CHN,Judo,20
+CHN,"Modern Pentathlon",1
+CHN,Rowing,26
+CHN,Sailing,5
+CHN,Shooting,49
+CHN,Softball,15
+CHN,"Table Tennis",71
+CHN,Taekwondo,8
+CHN,Tennis,4
+CHN,Volleyball,64
+CHN,Weightlifting,50
+CHN,Wrestling,8
+GER,Aquatics,176
+GER,Archery,6
+GER,Athletics,107
+GER,Boxing,22
+GER,Canoe,14
+GER,"Canoe / Kayak",111
+GER,Cycling,65
+GER,Equestrian,100
+GER,Fencing,56
+GER,Football,53
+GER,Gymnastics,71
+GER,Handball,37
+GER,Hockey,141
+GER,Judo,17
+GER,"Modern Pentathlon",3
+GER,Rowing,180
+GER,Rugby,15
+GER,Sailing,27
+GER,Shooting,25
+GER,Skating,4
+GER,"Table Tennis",10
+GER,Taekwondo,2
+GER,Tennis,13
+GER,Triathlon,2
+GER,Volleyball,4
+GER,Weightlifting,20
+GER,Wrestling,24
+KEN,Athletics,86
+KEN,Boxing,7
+USA,Aquatics,1184
+USA,Archery,55
+USA,Athletics,994
+USA,Baseball,68
+USA,Basketball,318
+USA,Boxing,111
+USA,"Canoe / Kayak",21
+USA,Cycling,66
+USA,Equestrian,121
+USA,Fencing,52
+USA,Football,132
+USA,Golf,27
+USA,Gymnastics,178
+USA,Hockey,28
+USA,"Ice Hockey",11
+USA,"Jeu de paume",1
+USA,Judo,12
+USA,Lacrosse,13
+USA,"Modern Pentathlon",17
+USA,Polo,9
+USA,Roque,3
+USA,Rowing,364
+USA,Rugby,46
+USA,Sailing,139
+USA,Shooting,190
+USA,Skating,1
+USA,Softball,60
+USA,Taekwondo,8
+USA,Tennis,54
+USA,Triathlon,1
+USA,"Tug of War",15
+USA,Volleyball,114
+USA,Weightlifting,43
+USA,Wrestling,129

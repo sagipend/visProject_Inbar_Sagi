@@ -1,0 +1,540 @@
+sport,year
+Aquatics,1896
+Aquatics,1900
+Aquatics,1904
+Aquatics,1908
+Aquatics,1912
+Aquatics,1920
+Aquatics,1924
+Aquatics,1928
+Aquatics,1932
+Aquatics,1936
+Aquatics,1948
+Aquatics,1952
+Aquatics,1956
+Aquatics,1960
+Aquatics,1964
+Aquatics,1968
+Aquatics,1972
+Aquatics,1976
+Aquatics,1980
+Aquatics,1984
+Aquatics,1988
+Aquatics,1992
+Aquatics,1996
+Aquatics,2000
+Aquatics,2004
+Aquatics,2008
+Aquatics,2012
+Archery,1900
+Archery,1904
+Archery,1908
+Archery,1920
+Archery,1972
+Archery,1976
+Archery,1980
+Archery,1984
+Archery,1988
+Archery,1992
+Archery,1996
+Archery,2000
+Archery,2004
+Archery,2008
+Archery,2012
+Athletics,1896
+Athletics,1900
+Athletics,1904
+Athletics,1908
+Athletics,1912
+Athletics,1920
+Athletics,1924
+Athletics,1928
+Athletics,1932
+Athletics,1936
+Athletics,1948
+Athletics,1952
+Athletics,1956
+Athletics,1960
+Athletics,1964
+Athletics,1968
+Athletics,1972
+Athletics,1976
+Athletics,1980
+Athletics,1984
+Athletics,1988
+Athletics,1992
+Athletics,1996
+Athletics,2000
+Athletics,2004
+Athletics,2008
+Athletics,2012
+Badminton,1992
+Badminton,1996
+Badminton,2000
+Badminton,2004
+Badminton,2008
+Badminton,2012
+Baseball,1992
+Baseball,1996
+Baseball,2000
+Baseball,2004
+Baseball,2008
+Basketball,1936
+Basketball,1948
+Basketball,1952
+Basketball,1956
+Basketball,1960
+Basketball,1964
+Basketball,1968
+Basketball,1972
+Basketball,1976
+Basketball,1980
+Basketball,1984
+Basketball,1988
+Basketball,1992
+Basketball,1996
+Basketball,2000
+Basketball,2004
+Basketball,2008
+Basketball,2012
+Basque Pelota,1900
+Boxing,1904
+Boxing,1908
+Boxing,1920
+Boxing,1924
+Boxing,1928
+Boxing,1932
+Boxing,1936
+Boxing,1948
+Boxing,1952
+Boxing,1956
+Boxing,1960
+Boxing,1964
+Boxing,1968
+Boxing,1972
+Boxing,1976
+Boxing,1980
+Boxing,1984
+Boxing,1988
+Boxing,1992
+Boxing,1996
+Boxing,2000
+Boxing,2004
+Boxing,2008
+Boxing,2012
+Canoe,2012
+Canoe / Kayak,1936
+Canoe / Kayak,1948
+Canoe / Kayak,1952
+Canoe / Kayak,1956
+Canoe / Kayak,1960
+Canoe / Kayak,1964
+Canoe / Kayak,1968
+Canoe / Kayak,1972
+Canoe / Kayak,1976
+Canoe / Kayak,1980
+Canoe / Kayak,1984
+Canoe / Kayak,1988
+Canoe / Kayak,1992
+Canoe / Kayak,1996
+Canoe / Kayak,2000
+Canoe / Kayak,2004
+Canoe / Kayak,2008
+Cricket,1900
+Croquet,1900
+Cycling,1896
+Cycling,1900
+Cycling,1904
+Cycling,1908
+Cycling,1912
+Cycling,1920
+Cycling,1924
+Cycling,1928
+Cycling,1932
+Cycling,1936
+Cycling,1948
+Cycling,1952
+Cycling,1956
+Cycling,1960
+Cycling,1964
+Cycling,1968
+Cycling,1972
+Cycling,1976
+Cycling,1980
+Cycling,1984
+Cycling,1988
+Cycling,1992
+Cycling,1996
+Cycling,2000
+Cycling,2004
+Cycling,2008
+Cycling,2012
+Equestrian,1900
+Equestrian,1912
+Equestrian,1920
+Equestrian,1924
+Equestrian,1928
+Equestrian,1932
+Equestrian,1936
+Equestrian,1948
+Equestrian,1952
+Equestrian,1956
+Equestrian,1960
+Equestrian,1964
+Equestrian,1968
+Equestrian,1972
+Equestrian,1976
+Equestrian,1980
+Equestrian,1984
+Equestrian,1988
+Equestrian,1992
+Equestrian,1996
+Equestrian,2000
+Equestrian,2004
+Equestrian,2008
+Equestrian,2012
+Fencing,1896
+Fencing,1900
+Fencing,1904
+Fencing,1908
+Fencing,1912
+Fencing,1920
+Fencing,1924
+Fencing,1928
+Fencing,1932
+Fencing,1936
+Fencing,1948
+Fencing,1952
+Fencing,1956
+Fencing,1960
+Fencing,1964
+Fencing,1968
+Fencing,1972
+Fencing,1976
+Fencing,1980
+Fencing,1984
+Fencing,1988
+Fencing,1992
+Fencing,1996
+Fencing,2000
+Fencing,2004
+Fencing,2008
+Fencing,2012
+Football,1900
+Football,1904
+Football,1908
+Football,1912
+Football,1920
+Football,1924
+Football,1928
+Football,1936
+Football,1948
+Football,1952
+Football,1956
+Football,1960
+Football,1964
+Football,1968
+Football,1972
+Football,1976
+Football,1980
+Football,1984
+Football,1988
+Football,1992
+Football,1996
+Football,2000
+Football,2004
+Football,2008
+Football,2012
+Golf,1900
+Golf,1904
+Gymnastics,1896
+Gymnastics,1900
+Gymnastics,1904
+Gymnastics,1908
+Gymnastics,1912
+Gymnastics,1920
+Gymnastics,1924
+Gymnastics,1928
+Gymnastics,1932
+Gymnastics,1936
+Gymnastics,1948
+Gymnastics,1952
+Gymnastics,1956
+Gymnastics,1960
+Gymnastics,1964
+Gymnastics,1968
+Gymnastics,1972
+Gymnastics,1976
+Gymnastics,1980
+Gymnastics,1984
+Gymnastics,1988
+Gymnastics,1992
+Gymnastics,1996
+Gymnastics,2000
+Gymnastics,2004
+Gymnastics,2008
+Gymnastics,2012
+Handball,1936
+Handball,1972
+Handball,1976
+Handball,1980
+Handball,1984
+Handball,1988
+Handball,1992
+Handball,1996
+Handball,2000
+Handball,2004
+Handball,2008
+Handball,2012
+Hockey,1908
+Hockey,1920
+Hockey,1928
+Hockey,1932
+Hockey,1936
+Hockey,1948
+Hockey,1952
+Hockey,1956
+Hockey,1960
+Hockey,1964
+Hockey,1968
+Hockey,1972
+Hockey,1976
+Hockey,1980
+Hockey,1984
+Hockey,1988
+Hockey,1992
+Hockey,1996
+Hockey,2000
+Hockey,2004
+Hockey,2008
+Hockey,2012
+Ice Hockey,1920
+Jeu de paume,1908
+Judo,1964
+Judo,1972
+Judo,1976
+Judo,1980
+Judo,1984
+Judo,1988
+Judo,1992
+Judo,1996
+Judo,2000
+Judo,2004
+Judo,2008
+Judo,2012
+Lacrosse,1904
+Lacrosse,1908
+Modern Pentathlon,1912
+Modern Pentathlon,1920
+Modern Pentathlon,1924
+Modern Pentathlon,1928
+Modern Pentathlon,1932
+Modern Pentathlon,1936
+Modern Pentathlon,1948
+Modern Pentathlon,1952
+Modern Pentathlon,1956
+Modern Pentathlon,1960
+Modern Pentathlon,1964
+Modern Pentathlon,1968
+Modern Pentathlon,1972
+Modern Pentathlon,1976
+Modern Pentathlon,1980
+Modern Pentathlon,1984
+Modern Pentathlon,1988
+Modern Pentathlon,1992
+Modern Pentathlon,1996
+Modern Pentathlon,2000
+Modern Pentathlon,2004
+Modern Pentathlon,2008
+Modern Pentathlon,2012
+Polo,1900
+Polo,1908
+Polo,1920
+Polo,1924
+Polo,1936
+Rackets,1908
+Roque,1904
+Rowing,1900
+Rowing,1904
+Rowing,1908
+Rowing,1912
+Rowing,1920
+Rowing,1924
+Rowing,1928
+Rowing,1932
+Rowing,1936
+Rowing,1948
+Rowing,1952
+Rowing,1956
+Rowing,1960
+Rowing,1964
+Rowing,1968
+Rowing,1972
+Rowing,1976
+Rowing,1980
+Rowing,1984
+Rowing,1988
+Rowing,1992
+Rowing,1996
+Rowing,2000
+Rowing,2004
+Rowing,2008
+Rowing,2012
+Rugby,1900
+Rugby,1908
+Rugby,1920
+Rugby,1924
+Sailing,1900
+Sailing,1908
+Sailing,1912
+Sailing,1920
+Sailing,1924
+Sailing,1928
+Sailing,1932
+Sailing,1936
+Sailing,1948
+Sailing,1952
+Sailing,1956
+Sailing,1960
+Sailing,1964
+Sailing,1968
+Sailing,1972
+Sailing,1976
+Sailing,1980
+Sailing,1984
+Sailing,1988
+Sailing,1992
+Sailing,1996
+Sailing,2000
+Sailing,2004
+Sailing,2008
+Sailing,2012
+Shooting,1896
+Shooting,1900
+Shooting,1908
+Shooting,1912
+Shooting,1920
+Shooting,1924
+Shooting,1932
+Shooting,1936
+Shooting,1948
+Shooting,1952
+Shooting,1956
+Shooting,1960
+Shooting,1964
+Shooting,1968
+Shooting,1972
+Shooting,1976
+Shooting,1980
+Shooting,1984
+Shooting,1988
+Shooting,1992
+Shooting,1996
+Shooting,2000
+Shooting,2004
+Shooting,2008
+Shooting,2012
+Skating,1908
+Skating,1920
+Softball,1996
+Softball,2000
+Softball,2004
+Softball,2008
+Table Tennis,1988
+Table Tennis,1992
+Table Tennis,1996
+Table Tennis,2000
+Table Tennis,2004
+Table Tennis,2008
+Table Tennis,2012
+Taekwondo,2000
+Taekwondo,2004
+Taekwondo,2008
+Taekwondo,2012
+Tennis,1896
+Tennis,1900
+Tennis,1904
+Tennis,1908
+Tennis,1912
+Tennis,1920
+Tennis,1924
+Tennis,1988
+Tennis,1992
+Tennis,1996
+Tennis,2000
+Tennis,2004
+Tennis,2008
+Tennis,2012
+Triathlon,2000
+Triathlon,2004
+Triathlon,2008
+Triathlon,2012
+Tug of War,1900
+Tug of War,1904
+Tug of War,1908
+Tug of War,1912
+Tug of War,1920
+Volleyball,1964
+Volleyball,1968
+Volleyball,1972
+Volleyball,1976
+Volleyball,1980
+Volleyball,1984
+Volleyball,1988
+Volleyball,1992
+Volleyball,1996
+Volleyball,2000
+Volleyball,2004
+Volleyball,2008
+Volleyball,2012
+Water Motorsports,1908
+Weightlifting,1896
+Weightlifting,1904
+Weightlifting,1920
+Weightlifting,1924
+Weightlifting,1928
+Weightlifting,1932
+Weightlifting,1936
+Weightlifting,1948
+Weightlifting,1952
+Weightlifting,1956
+Weightlifting,1960
+Weightlifting,1964
+Weightlifting,1968
+Weightlifting,1972
+Weightlifting,1976
+Weightlifting,1980
+Weightlifting,1984
+Weightlifting,1988
+Weightlifting,1992
+Weightlifting,1996
+Weightlifting,2000
+Weightlifting,2004
+Weightlifting,2008
+Weightlifting,2012
+Wrestling,1896
+Wrestling,1904
+Wrestling,1908
+Wrestling,1912
+Wrestling,1920
+Wrestling,1924
+Wrestling,1928
+Wrestling,1932
+Wrestling,1936
+Wrestling,1948
+Wrestling,1952
+Wrestling,1956
+Wrestling,1960
+Wrestling,1964
+Wrestling,1968
+Wrestling,1972
+Wrestling,1976
+Wrestling,1980
+Wrestling,1984
+Wrestling,1988
+Wrestling,1992
+Wrestling,1996
+Wrestling,2000
+Wrestling,2004
+Wrestling,2008
+Wrestling,2012

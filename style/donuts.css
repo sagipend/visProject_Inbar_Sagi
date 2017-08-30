@@ -1,0 +1,44 @@
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.arc2 text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc2 path {
+  stroke: #fff;
+}
+
+.tooltip2 {
+  background: #eee;
+  box-shadow: 0 0 5px #999999;
+  color: #333;
+  font-size: 12px;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  top: 489px;
+  width: 90px;
+  z-index: 10;
+  position: fixed;
+  left: 1139px;
+  height: 33px;
+
+
+}
+
+#tooltip2{
+  display: none;
+}
+#vis2 {
+  position: absolute;
+    top:145px;
+   right: -26px;
+}
